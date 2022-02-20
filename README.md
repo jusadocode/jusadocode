@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Justas and I'm a sophomore computer science student who likes learning new stuff every day.
-- 👀 I’m interested in software development in C# and C++, reverse engineering, music development.
+- 👀 I’m interested in software development in C# and C++, game development in Unity, music creation.
 - 🌱 I’m currently learning Unity and diving into its capabilities.
 - 💞️ I’m looking for various programming, teamwork experience, internships.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/justas-adomaitis-7bb024213/) 
