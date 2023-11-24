@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Justas and I'm a sophomore computer science student who likes learning new stuff every day.
+- 👋 Hi, my name is Justas and I'm a 3rd year computer science student who likes learning new stuff every day.
 - 👀 I’m interested in software development in C# and Javascript, game development in Unity, music creation.
 - 🌱 I’m currently learning Javascript and diving into its capabilities.
 - 💞️ I’m looking for various programming, teamwork experience, internships.
